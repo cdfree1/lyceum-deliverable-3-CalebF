@@ -78,7 +78,7 @@ function App() {
               />
             </div>
             <div className="form-group">
-                <label htmlFor="color">Color: </label>
+                <label htmlFor="color">Priority: </label>
                 <select
                     id="color"
                     value={color}
